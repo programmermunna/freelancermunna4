@@ -10,8 +10,6 @@ Skills: HTML, CSS, JAVASRIPT, PHP
 - 💬 Ask me about Web Development 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=freelancermunna4&show_icons=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/freelancermunna4)  
 
 
