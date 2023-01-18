@@ -14,5 +14,5 @@ Skills: HTML, CSS, JAVASRIPT, PHP
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/freelancermunna4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]([https://www.facebook.com/freelancermunna4](https://web.facebook.com/prgrammermunna)) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/freelancermunna4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]([[https://www.facebook.com/freelancermunna4](https://web.facebook.com/prgrammermunna)](https://web.facebook.com/prgrammermunna)) 
 
