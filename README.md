@@ -5,10 +5,10 @@
 
 My Professional Skills:
 ----------------------
-*** HTML,
-*** CSS/Bootstrap,
-*** JAVASRIPT/jQuery,
-*** PHP/Laravel
+- HTML,
+- CSS/Bootstrap,
+- JAVASRIPT/jQuery,
+- PHP/Laravel
 
 - 🔭 I’m currently working on PHP 
 - 🌱 I’m currently learning PHP LARAVEL 
