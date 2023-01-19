@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is MUNNA
 
-#### I'm a professional web designer specialized in interface development.If your files are ready in PSD, XD, AI or JPG that you want to convert into a good pixel-perfect web page to look at, you'll be in the right gig. I will transform your template in a perfect way.
+#### I am Munna Hasan. I am a web designer And Developer .I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organizations.
 
 
 My Professional Skills:
